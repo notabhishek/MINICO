@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onCancelled(@NonNull DatabaseError databaseError) {
-                Log.i("Info" , "Event Listener Closed");
+                Log.i("Info" , "Event Listener Closed!");
             }
         });
 
