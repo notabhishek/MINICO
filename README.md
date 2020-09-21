@@ -10,11 +10,11 @@
 
 ## Register Activity
 
-<img src="Screenshots/register1.png" width="400"><img src="Screenshots/register2.png" width="400">
+<img src="Screenshots/register1.png" width="400">     <img src="Screenshots/register2.png" width="400">
 
 ## Login Activity
 
-<img src="Screenshots/login1.png" width="400"><img src="Screenshots/login2.png" width="400">
+<img src="Screenshots/login1.png" width="400">     <img src="Screenshots/login2.png" width="400">
 
 ## Buy Activity 
 
