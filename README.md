@@ -10,8 +10,8 @@
 
 ## Register Activity
 
-<img src="Screenshots/register1.png" width="200">
+<img src="Screenshots/register1.png" width="400">
 
-![Alt text](/Screenshots/register2.png?raw=true "Register 2"){:height="50%" width="50%"}
+<img src="Screenshots/register2.png" width="400">
 
 ## Login Activity
