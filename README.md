@@ -10,8 +10,8 @@
 
 ## Register Activity
 
-![Alt text](/Screenshots/register1.png?raw=true "Register 1")  <!-- .element height="50%" width="50%" -->
+![Alt text](/Screenshots/register1.png?raw=true "Register 1"){:height="50%" width="50%"}
 
-![Alt text](/Screenshots/register2.png?raw=true "Register 2")
+![Alt text](/Screenshots/register2.png?raw=true "Register 2"){:height="50%" width="50%"}
 
 ## Login Activity
