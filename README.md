@@ -26,13 +26,7 @@
 
 ## Create new Ad Activity
 
-<img src="Screenshots/newAd1.png" width="400">
-
-<img src="Screenshots/newAd2.png" width="400">
-
-<img src="Screenshots/newAd3.png" width="400">
-
-<img src="Screenshots/newAd4.png" width="400">
+<img src="Screenshots/newAd1.png" width="400">  <img src="Screenshots/newAd2.png" width="400">  <img src="Screenshots/newAd3.png" width="400">  <img src="Screenshots/newAd4.png" width="400">
 
 <img src="Screenshots/newAd5.png" width="400">
 
@@ -46,11 +40,7 @@
 
 ## User Profile Activity 
 
-<img src="Screenshots/userProfile.png" width="400">
-
-<img src="Screenshots/uploadUserProfile.png" width="400">
-
-<img src="Screenshots/uploadUserProfile2.png" width="400">
+<img src="Screenshots/userProfile.png" width="400"> <img src="Screenshots/uploadUserProfile.png" width="400"> <img src="Screenshots/uploadUserProfile2.png" width="400">
 
 ## Feedback Activity
 
