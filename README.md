@@ -26,9 +26,7 @@
 
 ## Create new Ad Activity
 
-<img src="Screenshots/newAd1.png" width="250">  <img src="Screenshots/newAd2.png" width="250">  <img src="Screenshots/newAd3.png" width="250">  <img src="Screenshots/newAd4.png" width="250">
-
-<img src="Screenshots/newAd5.png" width="250">
+<img src="Screenshots/newAd1.png" width="250">  <img src="Screenshots/newAd2.png" width="250">  <img src="Screenshots/newAd3.png" width="250">  <img src="Screenshots/newAd4.png" width="250">  <img src="Screenshots/newAd5.png" width="250">
 
 ## View Ad Activity
 
