@@ -30,6 +30,7 @@
 
 ## View Ad Activity
 
+
 <img src="Screenshots/viewAd.png" width="250">
 
 ## User Ads Activity
